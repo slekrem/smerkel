@@ -1,0 +1,13 @@
+{
+  "name": "smerkel",
+  "description": "smerkel",
+  "homepage": "smerkel.com",
+  "keywords": [
+  ],
+  "author": "Stefan Merkel",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.5.5",
+    "paper-elements": "Polymer/paper-elements#0.5.5"
+  }
+}
